@@ -155,8 +155,8 @@ The app will open at `http://localhost:8501`
 ## 🙋‍♂️ Author
 
 **Malka Naaz**
-- GitHub: [@yourusername](https://github.com/yourusername)
-- LinkedIn: [Your LinkedIn](https://linkedin.com/in/yourprofile)
+- GitHub: [@Malka23](https://github.com/Malka23)
+- LinkedIn: [LinkedIn](https://www.linkedin.com/in/malka-naaz-870338145)
 
 ---
 
